@@ -10,8 +10,8 @@ Most of my work revolves around building responsive and user-friendly web applic
 
 I recently graduated with a **Bachelor of Computer Engineering**, finishing **1st in my class in every semester throughout my degree**.
 
-* ✉️ You can contact me at **[[Yazeedkuantan@gmail.com]](mailto:yazeedkuantan@gmail.com)**
-* 🌐 Check out my portfolio at **[[Portfolio]](https://yazeedalkalmi.vercel.app/)**
+* ✉️ You can contact me at **[Yazeedkuantan@gmail.com](mailto:yazeedkuantan@gmail.com)**
+* 🌐 Check out my portfolio at **[Portfolio](https://yazeedalkalmi.vercel.app/)**
 * 🧠 Currently focused on improving my software engineering fundamentals and building more projects.
 
 ### Skills
