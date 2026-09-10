@@ -1,7 +1,5 @@
 # Hi 👋 My name is Yazeed Alkalmi.
 
-=================================
-
 ## Frontend-focused Software Developer
 
 I am a Computer Engineering graduate and frontend-focused software developer who enjoys building modern web applications and solving practical problems through code.
@@ -12,8 +10,8 @@ Most of my work revolves around building responsive and user-friendly web applic
 
 I recently graduated with a **Bachelor of Computer Engineering**, finishing **1st in my class in every semester throughout my degree**.
 
-* ✉️ You can contact me at **[your email]**
-* 🌐 Check out my portfolio at **[your portfolio]**
+* ✉️ You can contact me at **[[Yazeedkuantan@gmail.com]](mailto:yazeedkuantan@gmail.com)**
+* 🌐 Check out my portfolio at **[[Portfolio]](https://yazeedalkalmi.vercel.app/)**
 * 🧠 Currently focused on improving my software engineering fundamentals and building more projects.
 
 ### Skills
@@ -45,30 +43,6 @@ I recently graduated with a **Bachelor of Computer Engineering**, finishing **1s
   </a>
 </p>
 
-### Featured Projects
-
-**Syncwave — Playlist Sync**
-
-A web application for synchronizing playlists between music platforms, built with Next.js, TypeScript, Supabase, and external APIs.
-
-**Taskora — Team Task Manager**
-
-A full-stack multi-user task management application featuring workspaces, task assignment, authentication, protected routes, row-level security, and real-time activity.
-
-**Smart Study Dashboard**
-
-A responsive study tracking dashboard built with React, featuring persistent local data, charts, theme switching, and a component-based architecture.
-
-### Socials
-
-<p align="left">
-  <a href="[YOUR_GITHUB]" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="[YOUR_LINKEDIN]" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-</p>
 
 ### GitHub Stats
 
