@@ -14,6 +14,20 @@ I recently graduated with a **Bachelor of Computer Engineering**, finishing **1s
 * 🌐 Check out my portfolio at **[Portfolio](https://yazeedalkalmi.vercel.app/)**
 * 🧠 Currently focused on improving my software engineering fundamentals and building more projects.
 
+### Socials
+
+<p align="left">
+  <a href="https://www.facebook.com/ZeedAlkalmi" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  </a>
+  <a href="https://github.com/Zeedart" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/463135504922181632" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </a>
+</p>
+
 ### Skills
 
 <p align="left">
