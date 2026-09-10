@@ -32,7 +32,7 @@ I recently graduated with a **Bachelor of Computer Engineering**, finishing **1s
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-light.svg" width="36" height="36" alt="Next.js" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
