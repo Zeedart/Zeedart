@@ -47,5 +47,5 @@ I recently graduated with a **Bachelor of Computer Engineering**, finishing **1s
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeedart&show_icons=true&hide_border=true" alt="Yazeed's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeedart" />
 </p>
